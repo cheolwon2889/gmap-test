@@ -124,7 +124,7 @@ class TwoScreenState extends State<TwoScreen> {
           },
           separatorBuilder: (context, index) {
             return Divider(
-              height: 2,
+              height: 3,
               color: Colors.grey,
             );
           },
